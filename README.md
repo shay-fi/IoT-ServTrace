@@ -15,7 +15,7 @@ This repository contains the service trace data used for our paper published at 
     └── ...
 ```
 
-Each **JSON Lines** (`.json`-formatted) file represents traffic data for a single IoT device.
+Each **JSON** file contains traffic data of a single IoT device type.
 
 ---
 
