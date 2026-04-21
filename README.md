@@ -1,6 +1,6 @@
 # IoT-ServTrace Datasets
 
-This repository contains two subdirectories corresponding to the **IoT-ServTrace-2019** and **IoT-ServTrace-2022** datasets.
+This repository contains the service trace data used for our paper published at IFIP Networking 2026 (see 'Cite Our Data' section below). The repository contains two subdirectories corresponding to the **IoT-ServTrace-2019** and **IoT-ServTrace-2022** datasets.
 
 ## Directory Structure
 ```
@@ -38,7 +38,7 @@ Each line in a `.json` file is a JSON object with the following structure:
 
 ---
 
-## Cite our data:
+## Cite Our Data:
 <pre>
 @INPROCEEDINGS{26IFIPNetworking,
     author = {Azizi, Shayan and Okui, Norihiro and Nakahara, Masataka and Kubota, Ayumu and Habibi Gharakheili, Hassan},
