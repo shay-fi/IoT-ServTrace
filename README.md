@@ -48,8 +48,9 @@ Each line in a `.json` file is a JSON object with the following structure:
     month = {May},
     address = {Lugano, Switzerland}
 }
-
+</pre>
+    
 ---
-
+    
 ## Related Links:
 https://iotanalytics.unsw.edu.au
