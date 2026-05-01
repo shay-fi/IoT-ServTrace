@@ -49,5 +49,7 @@ Each line in a `.json` file is a JSON object with the following structure:
     address = {Lugano, Switzerland}
 }
 
+---
+
 ## Related Links:
 https://iotanalytics.unsw.edu.au
